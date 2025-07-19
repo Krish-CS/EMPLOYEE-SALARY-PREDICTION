@@ -46,17 +46,13 @@ These libraries were essential for data processing, model building, and creating
 Below are screen captures of the working app:
 
 ### 🖥️ Streamlit UI:
-[INSERT IMAGE HERE]
-<img width="1919" height="1026" alt="Image" src="https://github.com/user-attachments/assets/9a8e44b0-2150-4478-9742-f33e1f81e602" />
 <img width="1918" height="1021" alt="Image" src="https://github.com/user-attachments/assets/21eb18df-9be7-4957-9d01-f14b76d4f28f" />
-<img width="1919" height="1025" alt="Image" src="https://github.com/user-attachments/assets/20163a78-16eb-49b4-9432-52821ace1031" />
-<img width="582" height="219" alt="Image" src="https://github.com/user-attachments/assets/93b9e1aa-8abc-4562-a410-025bce8e761b" />
-<img width="1919" height="1024" alt="Image" src="https://github.com/user-attachments/assets/720f8fb5-d24b-4463-8475-6012b27d5359" />
+
 ### 📊 Prediction Result:
-[INSERT IMAGE HERE]
+<img width="1919" height="1025" alt="Image" src="https://github.com/user-attachments/assets/20163a78-16eb-49b4-9432-52821ace1031" />
 
 ### 🧠 Model Training Output:
-[INSERT IMAGE HERE]
+<img width="582" height="219" alt="Image" src="https://github.com/user-attachments/assets/93b9e1aa-8abc-4562-a410-025bce8e761b" />
 
 ### 🟢 App Running View:
 [INSERT IMAGE HERE]
