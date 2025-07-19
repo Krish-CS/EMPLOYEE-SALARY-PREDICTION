@@ -46,7 +46,7 @@ These libraries were essential for data processing, model building, and creating
 Below are screen captures of the working app:
 
 ### 🖥️ Streamlit UI:
-<img width="1918" height="1021" alt="Image" src="https://github.com/user-attachments/assets/21eb18df-9be7-4957-9d01-f14b76d4f28f" />
+<img width="1919" height="1024" alt="Image" src="https://github.com/user-attachments/assets/720f8fb5-d24b-4463-8475-6012b27d5359" />
 
 ### 📊 Prediction Result:
 <img width="1919" height="1025" alt="Image" src="https://github.com/user-attachments/assets/20163a78-16eb-49b4-9432-52821ace1031" />
