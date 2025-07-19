@@ -55,7 +55,7 @@ Below are screen captures of the working app:
 <img width="582" height="219" alt="Image" src="https://github.com/user-attachments/assets/93b9e1aa-8abc-4562-a410-025bce8e761b" />
 
 ### 🟢 App Running View:
-[INSERT IMAGE HERE]
+<img width="1919" height="1025" alt="Image" src="https://github.com/user-attachments/assets/20163a78-16eb-49b4-9432-52821ace1031" />
 
 ---
 
